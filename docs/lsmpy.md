@@ -1,0 +1,4 @@
+ 
+# lsmpy module
+
+::: lsmpy.lsmpy
