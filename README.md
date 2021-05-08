@@ -13,7 +13,8 @@
 
 ## Features
 
--   TODO
+-   A demo package.
+
 
 ## Credits
 
